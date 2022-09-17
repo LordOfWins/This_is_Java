@@ -1,4 +1,4 @@
-package org.doubleOperation;
+package org.doubleoperation;
 
 public class InfinityAndNaNCheckExample {
     public static void main(String[] args) {

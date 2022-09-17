@@ -1,9 +1,9 @@
-package org.doubleOperation;
+package org.doubleoperation;
 
 public class InputDataCheckNaNExample2 {
     public static void main(String[] args) {
         String userInput = "NaN";
-        double val = Double.valueOf(userInput);
+        double val = Double.parseDouble(userInput);
         double currentBalance = 10000.0;
 
         //악의적인 사용자가 있을 수 있으므로 NaN 검사를 해줘야 한다.

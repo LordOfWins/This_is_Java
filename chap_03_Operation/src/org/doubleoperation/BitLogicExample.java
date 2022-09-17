@@ -1,4 +1,4 @@
-package org.doubleOperation;
+package org.doubleoperation;
 
 public class BitLogicExample {
     public static void main(String[] args) {
